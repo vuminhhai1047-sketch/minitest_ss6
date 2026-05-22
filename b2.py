@@ -3,7 +3,7 @@
 
 
 password = 123456
-count = 3
+count = 4
 
 
 while True:
